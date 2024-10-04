@@ -1,0 +1,152 @@
+[
+    {
+        "question": "¿Qué tipo de energía es considerada renovable?",
+        "options": [
+            "Energía solar",
+            "Energía nuclear",
+            "Energía de carbón",
+            "Energía de gas natural"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un gas de efecto invernadero?",
+        "options": [
+            "Dióxido de carbono",
+            "Metano",
+            "Ozono",
+            "Oxígeno"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Cuál es el principal beneficio de plantar árboles?",
+        "options": [
+            "Producen más oxígeno",
+            "Aumentan la biodiversidad",
+            "Reducen la erosión del suelo",
+            "Todas las anteriores"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Qué material se tarda más en descomponerse en la naturaleza?",
+        "options": [
+            "Papel",
+            "Plástico",
+            "Vidrio",
+            "Aluminio"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué significa la sigla 'R' en la regla de las 3R?",
+        "options": [
+            "Reducir",
+            "Reciclar",
+            "Reutilizar",
+            "Todas las anteriores"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Cuál es la principal causa de la deforestación en el mundo?",
+        "options": [
+            "Construcción de viviendas",
+            "Agricultura industrial",
+            "Extracción de petróleo",
+            "Turismo"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "¿Cuál es la mejor manera de reducir la huella de carbono en el transporte?",
+        "options": [
+            "Conducir un coche eléctrico",
+            "Usar transporte público",
+            "Caminar o andar en bicicleta",
+            "Todas las anteriores"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Qué porcentaje del agua en la Tierra es potable?",
+        "options": [
+            "1%",
+            "10%",
+            "25%",
+            "50%"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "¿Qué tipo de residuo es más peligroso para la fauna marina?",
+        "options": [
+            "Residuos orgánicos",
+            "Metales pesados",
+            "Plásticos",
+            "Vidrios"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes es un efecto de la contaminación del aire?",
+        "options": [
+            "Lluvia ácida",
+            "Calentamiento global",
+            "Enfermedades respiratorias",
+            "Todas las anteriores"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Cuál es el principal componente de los plásticos?",
+        "options": [
+            "Celulosa",
+            "Petroquímicos",
+            "Almidón",
+            "Fibra de carbono"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Qué tipo de residuos no deben tirarse al inodoro?",
+        "options": [
+            "Medicamentos",
+            "Aceites",
+            "Toallitas húmedas",
+            "Todas las anteriores"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Cuál es la principal causa de la contaminación del océano?",
+        "options": [
+            "Vertidos industriales",
+            "Derrames de petróleo",
+            "Desechos plásticos",
+            "Contaminación química"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "¿Cuál es la mejor forma de conservar la biodiversidad?",
+        "options": [
+            "Crear reservas naturales",
+            "Fomentar la agricultura ecológica",
+            "Reducir el uso de pesticidas",
+            "Todas las anteriores"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "¿Cuál es la fuente de energía más limpia?",
+        "options": [
+            "Carbón",
+            "Energía nuclear",
+            "Energía eólica",
+            "Gas natural"
+        ],
+        "correct": 2
+    }
+]
